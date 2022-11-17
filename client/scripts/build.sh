@@ -1,0 +1,1 @@
+npm run build && sudo rm -rf /var/www/build && sudo cp -R ./build /var/www
